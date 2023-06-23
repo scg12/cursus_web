@@ -1,0 +1,26 @@
+{ 
+  "scolarite": "Schooling",
+  "eco_and_finance": "Finances",
+  "stats_and_monitoring": "Stats & Monitoring",
+  "impressions": "Printings",
+  "comm_with_parents": "Informations to Parents",
+  "extras": "Extras Features",
+  "configuration": "Settings",
+  "change_theme" : "Change your theme",
+  
+  
+  "annee_scolaire" : "school year",
+  "section" : "section",
+  "cycle" : "cycle",
+  "trimestre" : "trimester",
+  "sequence" : "evaluation period",
+  "login" : "Login",
+  "password" : "Password",
+  "acceder_espace" : "Access your space by giving your correct parameters",
+  "Connexion" : "Connection",
+  "forgetPwd" : "Have you forgotten your Password? ",
+  "aboutApp": "Cursus.net is a product designed and owned by BOGEDEV corporation.",
+  "rightsReserve":"All right reserved.",
+  "incorrectPwd" : "Login or password incorrect!"
+
+}
